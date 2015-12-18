@@ -1,0 +1,50 @@
+header {
+  text-align: center;
+  font-family: fantasy;
+}
+
+h2 {
+  display: inline-block;
+}
+
+#savings {
+  display: inline-block;
+  width: 45%;
+  border-style: ridge;
+  border-width: medium;
+  padding-bottom: 2em;
+}
+
+#cheque {
+  display: inline-block;
+  width: 45%;
+  border-style: ridge;
+  border-width: medium;
+  padding-bottom: 2em;
+}
+
+article {
+  text-align:center;
+  font-family: fantasy;
+}
+
+input {
+  text-align: center;
+}
+
+p {
+  font-family: monospace;
+  font-style: oblique;
+}
+
+input {
+  min-height: 20px;
+}
+
+button {
+  padding: 5px;
+}
+
+@media all and (min-width: 20em){
+
+}
